@@ -25,7 +25,6 @@ CREATED
 manifests/cardbot.yaml
 /.dockerignore
 /deploy.sh
-.git/hooks/post-receive
 
 
 
